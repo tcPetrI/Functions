@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays", "Arrays\Arrays.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework", "Homework\Homework.vcxproj", "{7681B43B-2DE1-4751-8360-0018B1F0C7C5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework2.0", "Homework2.0\Homework2.0.vcxproj", "{46F38209-1726-4B12-9164-41378EFBF48A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{7681B43B-2DE1-4751-8360-0018B1F0C7C5}.Release|x64.Build.0 = Release|x64
 		{7681B43B-2DE1-4751-8360-0018B1F0C7C5}.Release|x86.ActiveCfg = Release|Win32
 		{7681B43B-2DE1-4751-8360-0018B1F0C7C5}.Release|x86.Build.0 = Release|Win32
+		{46F38209-1726-4B12-9164-41378EFBF48A}.Debug|x64.ActiveCfg = Debug|x64
+		{46F38209-1726-4B12-9164-41378EFBF48A}.Debug|x64.Build.0 = Debug|x64
+		{46F38209-1726-4B12-9164-41378EFBF48A}.Debug|x86.ActiveCfg = Debug|Win32
+		{46F38209-1726-4B12-9164-41378EFBF48A}.Debug|x86.Build.0 = Debug|Win32
+		{46F38209-1726-4B12-9164-41378EFBF48A}.Release|x64.ActiveCfg = Release|x64
+		{46F38209-1726-4B12-9164-41378EFBF48A}.Release|x64.Build.0 = Release|x64
+		{46F38209-1726-4B12-9164-41378EFBF48A}.Release|x86.ActiveCfg = Release|Win32
+		{46F38209-1726-4B12-9164-41378EFBF48A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
